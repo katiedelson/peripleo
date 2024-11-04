@@ -1,10 +1,10 @@
 {
   "initial_bounds": [-7.9, 49.5, 2.2, 59.4],
-  "map_style": "map-style-OSM.json",
+  "map_style": "./map-style-OSM.json",
   "data": [
     {
       "format": "LINKED_PLACES",
-      "src": "data/Peripleo_Data_1728413345.json"
+      "src": "./data/Peripleo_Data_1728413345.json"
     }
   ]
 }
